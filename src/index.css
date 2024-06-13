@@ -11,7 +11,7 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 400;
   color: #0c0c0c;
-  background: linear-gradient(to bottom, #c9d6ff, #e2e2e2);
+  background: url(../public/4400684.jpg) center / cover no-repeat;
   min-height: 100vh;
 }
 
